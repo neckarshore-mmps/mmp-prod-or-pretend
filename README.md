@@ -1,4 +1,4 @@
-# OMNIXIS Prod or Pretend
+# Prod or Pretend
 
 **A constructive quality mirror for tech hype on LinkedIn and X.**
 

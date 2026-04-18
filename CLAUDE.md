@@ -2,7 +2,10 @@
 
 ## What This Repo Is
 
-`OMNIXIS-prod-or-pretend` is the planning and (eventually) code repository for **Prod or Pretend** — a constructive quality mirror for tech hype on LinkedIn and X. Part of the Neckarshore AI product portfolio.
+`mmp-prod-or-pretend` is the planning and (eventually) code repository for **Prod or Pretend** — a constructive quality mirror for tech hype on LinkedIn and X. Part of the Neckarshore AI product portfolio.
+
+Local path: `~/Developer/projects/neckarshore-ai/mmp-prod-or-pretend/`.
+GitHub: https://github.com/neckarshore-ai/mmp-prod-or-pretend (renamed from `OMNIXIS-prod-or-pretend` on 2026-04-18, stays in `neckarshore-ai` org per MMP scope — not moved to `omnopsis-ai`).
 
 ## Product Context
 
@@ -22,7 +25,7 @@
 ### Style
 - English for all documents.
 - No emoji in documents.
-- Follow Neckarshore AI formatting conventions (same as OMNIXIS-planning).
+- Follow Neckarshore AI formatting conventions (same as omnopsis-planning).
 
 ### Key Decisions
 - See `docs/decisions.md` for all decisions with status (Decided/Open/Deferred).
