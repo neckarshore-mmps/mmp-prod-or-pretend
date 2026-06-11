@@ -4,7 +4,7 @@
 
 `mmp-prod-or-pretend` is the planning and (eventually) code repository for **Prod or Pretend** — a constructive quality mirror for tech hype on LinkedIn and X. Part of the Neckarshore AI product portfolio.
 
-Local path: `~/Developer/projects/neckarshore-ai/mmp-prod-or-pretend/`.
+Local path: `~/Developer/projects/neckarshore-mmps/mmp-prod-or-pretend/`.
 GitHub: https://github.com/neckarshore-ai/mmp-prod-or-pretend.
 
 ## Name history
